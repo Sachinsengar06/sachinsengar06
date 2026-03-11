@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">FullStack Developer</h3></br>
-  🔭 I’m currently working on <a href="https://github.com/Sachinsengar06/Ecommerc_MicroServices">MicroServices</a><br>
-  🌱 I’m currently learning <b>MicroSoft chat Bot, Node, RabbitMq</b><br>
-  💬 Ask me about <b>Angular, Asp Dot NET Core, C#, C++</b><br>
+  🔭 I’m currently working on NextJs personal project</a><br>
+  🌱 I’m currently learning <b>NextJs, optimisation, SSR</b><br>
+  💬 Ask me about <b>React, NextJs, typescript, javascript</b><br>
   📫 How to reach me <b>sachin.sengar06@gmail.com</b>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sachin-sengar-3a7251155/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
